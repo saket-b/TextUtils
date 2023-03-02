@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/saket-b/TextUtils/static/css/main.2543b9d3.css",
+    "main.js": "/saket-b/TextUtils/static/js/main.4d4d4730.js",
+    "static/js/787.719ec76d.chunk.js": "/saket-b/TextUtils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/saket-b/TextUtils/index.html",
+    "main.2543b9d3.css.map": "/saket-b/TextUtils/static/css/main.2543b9d3.css.map",
+    "main.4d4d4730.js.map": "/saket-b/TextUtils/static/js/main.4d4d4730.js.map",
+    "787.719ec76d.chunk.js.map": "/saket-b/TextUtils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2543b9d3.css",
+    "static/js/main.4d4d4730.js"
+  ]
+}
